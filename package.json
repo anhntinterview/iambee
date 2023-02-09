@@ -1,6 +1,7 @@
 {
-  "name": "inspectorio",
+  "name": "iambee",
   "version": "0.1.0",
+  "homepage": "https://anhntinterview.github.io/iambee",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
@@ -28,6 +29,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -55,6 +58,7 @@
     "@types/lodash": "^4.14.191",
     "autoprefixer": "^10.4.12",
     "cssnano": "^5.1.13",
+    "gh-pages": "^5.0.0",
     "postcss-import": "^15.0.0",
     "postcss-nesting": "^10.2.0",
     "prettier": "^2.7.1",
