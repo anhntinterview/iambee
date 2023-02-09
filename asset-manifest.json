@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/iambee/static/css/main.036db13d.css",
+    "main.js": "/iambee/static/js/main.0e9fe9eb.js",
+    "StackExchangePage.js": "/iambee/static/js/StackExchangePage.be13814d.chunk.js",
+    "static/js/787.e33f12fa.chunk.js": "/iambee/static/js/787.e33f12fa.chunk.js",
+    "static/js/679.80a3b018.chunk.js": "/iambee/static/js/679.80a3b018.chunk.js",
+    "index.html": "/iambee/index.html",
+    "main.036db13d.css.map": "/iambee/static/css/main.036db13d.css.map",
+    "main.0e9fe9eb.js.map": "/iambee/static/js/main.0e9fe9eb.js.map",
+    "StackExchangePage.be13814d.chunk.js.map": "/iambee/static/js/StackExchangePage.be13814d.chunk.js.map",
+    "787.e33f12fa.chunk.js.map": "/iambee/static/js/787.e33f12fa.chunk.js.map",
+    "679.80a3b018.chunk.js.map": "/iambee/static/js/679.80a3b018.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.036db13d.css",
+    "static/js/main.0e9fe9eb.js"
+  ]
+}
